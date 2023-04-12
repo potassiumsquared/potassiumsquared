@@ -2,7 +2,7 @@
 
 <div align = "center">
  
-# 👩‍💻 About Me:
+# 👩‍💻 Hello, I'm Kayleen! Here's a little about me:
 
 |👨‍👩‍👧 Mother & Wife | 🎓 Full Sail University Game Design Student - Graduating 2024 | 🎮 Video Game Enthusiast|
 |:---:|:---:|:---:|
