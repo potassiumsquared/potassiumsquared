@@ -1,8 +1,12 @@
 <h> <link rel="stylesheet" href="devicon.min.css"> </h>
 
-<div id="header" align="center">
-  <img src= "./MyLogo.png" width = "100"/>
-</div>
+<div align = "center">
+ 
+# 👩‍💻 About Me:
+
+|👨‍👩‍👧 Mother & Wife | 🎓 Full Sail University Game Design Student - Graduating 2024 | 🎮 Video Game Enthusiast|
+|:---:|:---:|:---:|
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kathleen-knapp-b96166126/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,15 +17,6 @@
 
  *R1, R2, L1, X, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, RIGHT, UP*
 </div>
-
----
-
-<div align = "center">
- 
-# 👩‍💻 About Me:
-
-|👨‍👩‍👧 Mother & Wife | 🎓 Full Sail University Game Design Student - Graduating 2024 | 🎮 Video Game Enthusiast|
-|:---:|:---:|:---:|
 
 ---
 
@@ -50,6 +45,9 @@
 |:---:|
 |Magnetic Box Toy|
 ---
-# My Holopins!
-[![An image of @potassiumsquared's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/potassiumsquared)](https://holopin.io/@potassiumsquared)
+  
+# Thanks for stopping by!
+  
+  <div aling = "center">
+    <img src = "./Plant.gif"/>
   </div>
