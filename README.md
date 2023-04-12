@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 
-  ---
-  
  *R1, R2, L1, X, LEFT, DOWN, RIGHT, UP, LEFT, DOWN, RIGHT, UP*
 </div>
 
@@ -38,16 +36,19 @@
 
 ### Jetpack Jump Puzzle Mini-Game
 
-|[![](https://i.ytimg.com/an_webp/iomUclLa1PA/mqdefault_6s.webp?du=3000&sqp=COCv2KEG&rs=AOn4CLD5BA5UeL5KZ0iFcw2LiJYT0zYneQ)](https://youtu.be/iomUclLa1PA) | [![](https://i.ytimg.com/an_webp/AXrKq21homw/mqdefault_6s.webp?du=3000&sqp=CLCW2KEG&rs=AOn4CLBxqQ3ynggRtoi5poGEvp5Kx4sDvA)](https://youtu.be/AXrKq21homw)|
+|[![](./Technical.webp)](https://youtu.be/iomUclLa1PA) | [![](./Gameplay.webp)](https://youtu.be/AXrKq21homw)|
 |:---:|:---:|
 |Technical Walkthrough|Gameplay Walkthrough|
 
 ### Greyboxing Adventure Level
 
-|[![](https://i.ytimg.com/an_webp/kv6mbalxinU/mqdefault_6s.webp?du=3000&sqp=CNXD2KEG&rs=AOn4CLD4KDKGfxruwuA1vmkhLjo8cChUfA)](https://youtu.be/kv6mbalxinU) | [![](https://i.ytimg.com/an_webp/038fdLuN7EI/mqdefault_6s.webp?du=3000&sqp=CLqt2KEG&rs=AOn4CLAtrtbMQPL9wRnbdOGZc2tuRtboFQ)](https://youtu.be/038fdLuN7EI)|
+|[![](./First_Level.webp)](https://youtu.be/kv6mbalxinU) | [![](./Second_Level.webp)](https://youtu.be/038fdLuN7EI)|
 |:---:|:---:|
 |First Iteration|Second Iteration|
 
+|[![](./Magnetic.webp)](https://youtu.be/Rz7OXlIUL6o)|
+|:---:|
+|Magnetic Box Toy|
 ---
 # My Holopins!
 [![An image of @potassiumsquared's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/potassiumsquared)](https://holopin.io/@potassiumsquared)
