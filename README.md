@@ -42,9 +42,9 @@
 |:---:|:---:|
 |First Iteration|Second Iteration|
 
-|[![](./Magnetic.webp)](https://youtu.be/Rz7OXlIUL6o)|
-|:---:|
-|Magnetic Box Toy|
+|[![](./Magnetic.webp)](https://youtu.be/Rz7OXlIUL6o)|[![](./Beta.webp)](https://youtu.be/X-aGR45x_7w)
+|:---:|:---:|
+|Magnetic Box Toy|Environment Design Beta|
 ---
   
 # Thanks for stopping by!
