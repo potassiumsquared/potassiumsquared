@@ -36,15 +36,23 @@
 |:---:|:---:|
 |Technical Walkthrough|Gameplay Walkthrough|
 
-### Greyboxing Adventure Level
+### Alpha/Greyboxing Adventure Level
 
 |[![](./First_Level.webp)](https://youtu.be/kv6mbalxinU) | [![](./Second_Level.webp)](https://youtu.be/038fdLuN7EI)|
 |:---:|:---:|
 |First Iteration|Second Iteration|
 
-|[![](./Magnetic.webp)](https://youtu.be/Rz7OXlIUL6o)|[![](./Beta.webp)](https://youtu.be/X-aGR45x_7w)
-|:---:|:---:|
-|Magnetic Box Toy|Environment Design Beta|
+ ### Beta Adventure Level
+ 
+|[![](./Beta.webp)](https://youtu.be/X-aGR45x_7w)
+|:---:|
+|Environment Design Beta|
+ 
+ ### Game Mechanic
+ 
+|[![](./Magnetic.webp)](https://youtu.be/Rz7OXlIUL6o)
+|:---:|
+|Magnetic Box Toy|
 ---
   
 # Thanks for stopping by!
