@@ -4,7 +4,7 @@
  
 # 👩‍💻 Hello, I'm Kayleen! Here's a little about me:
 
-|👨‍👩‍👧 Mother & Wife | 🎓 Full Sail University Game Design Student - Graduating 2024 | 🎮 Video Game Enthusiast|
+|👨‍👩‍👧 Mother & Wife | 🎓 Associate's in Game Design | 🎮 Video Game Enthusiast |
 |:---:|:---:|:---:|
 
 <div id="badges" align="center">
