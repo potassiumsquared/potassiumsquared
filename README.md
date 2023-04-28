@@ -29,13 +29,6 @@
 <div align = "center">
 
 ## Game Design Samples:
-
-### Jetpack Jump Puzzle Mini-Game
-
-|[![](./Technical.webp)](https://youtu.be/iomUclLa1PA) | [![](./Gameplay.webp)](https://youtu.be/AXrKq21homw)|
-|:---:|:---:|
-|Technical Walkthrough|Gameplay Walkthrough|
-
 ### Alpha/Greyboxing Adventure Level
 
 |[![](./First_Level.webp)](https://youtu.be/kv6mbalxinU) | [![](./Second_Level.webp)](https://youtu.be/038fdLuN7EI)|
@@ -48,13 +41,47 @@
 |:---:|
 |Environment Design Beta|
  
+# Level Design Process
+ 
+## Before & After
+ 
+|![](./StartBM.png) | ![](./Start.png)|
+|:---:|:---:|
+
+|![](./CliffsBM.png) | ![](./Cliffs.png)|
+|:---:|:---:|
+
+|![](./ClimbBM.png) | ![](./Climb.png)|
+|:---:|:---:|
+ 
+|![](./OutsideBM.png) | ![](./Outside.png)|
+|:---:|:---:|
+
+|![](./TempleBM.png) | ![](./Temple.png)|
+|:---:|:---:|
+
+|![](./MidBM.png) | ![](./Mid.png)|
+|:---:|:---:|
+
+|![](./TreasureBM.png) | ![](./Treasure.png)|
+|:---:|:---:|
+ 
+|![](./EndBM.png) | ![](./End.png)|
+|:---:|:---:|
+
+## Stack-o-Bot mini Projects:
+### Jetpack Jump Puzzle Mini-Game
+
+|[![](./Technical.webp)](https://youtu.be/iomUclLa1PA) | [![](./Gameplay.webp)](https://youtu.be/AXrKq21homw)|
+|:---:|:---:|
+|Technical Walkthrough|Gameplay Walkthrough|
+
  ### Game Mechanic
  
 |[![](./Magnetic.webp)](https://youtu.be/Rz7OXlIUL6o)
 |:---:|
 |Magnetic Box Toy|
----
-  
+ 
 # Thanks for stopping by!
   
   <div aling = "center">
