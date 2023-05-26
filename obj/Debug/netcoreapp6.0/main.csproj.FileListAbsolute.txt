@@ -1,0 +1,5 @@
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\obj\Debug\netcoreapp6.0\main.csproj.AssemblyReference.cache
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\obj\Debug\netcoreapp6.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\obj\Debug\netcoreapp6.0\main.AssemblyInfoInputs.cache
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\obj\Debug\netcoreapp6.0\main.AssemblyInfo.cs
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\obj\Debug\netcoreapp6.0\main.csproj.CoreCompileInputs.cache

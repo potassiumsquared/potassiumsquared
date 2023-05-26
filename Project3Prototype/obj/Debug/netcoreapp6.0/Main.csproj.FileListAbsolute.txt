@@ -1,0 +1,15 @@
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\bin\Debug\netcoreapp6.0\Main.exe
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\bin\Debug\netcoreapp6.0\Main.deps.json
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\bin\Debug\netcoreapp6.0\Main.runtimeconfig.json
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\bin\Debug\netcoreapp6.0\Main.dll
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\bin\Debug\netcoreapp6.0\Main.pdb
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\obj\Debug\netcoreapp6.0\Main.csproj.AssemblyReference.cache
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\obj\Debug\netcoreapp6.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\obj\Debug\netcoreapp6.0\Main.AssemblyInfoInputs.cache
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\obj\Debug\netcoreapp6.0\Main.AssemblyInfo.cs
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\obj\Debug\netcoreapp6.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\obj\Debug\netcoreapp6.0\Main.dll
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\obj\Debug\netcoreapp6.0\refint\Main.dll
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\obj\Debug\netcoreapp6.0\Main.pdb
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\obj\Debug\netcoreapp6.0\Main.genruntimeconfig.cache
+C:\Users\kathl\OneDrive\Documents\GitHub\potassiumsquared\Project3\obj\Debug\netcoreapp6.0\ref\Main.dll
