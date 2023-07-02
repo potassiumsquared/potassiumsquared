@@ -4,7 +4,7 @@
 
 # 👩‍💻 Hello, I'm Kayleen! Here's a little about me:
 
-|👨‍👩‍👧 Mother & Wife | 🎓 Associate's in Game Design | 🎮 Video Game Enthusiast |
+|👨‍👩‍👧 Mother & Wife | 🎓 Game Design Student (March 2024)| 🎮 Video Game Enthusiast |
 |:---:|:---:|:---:|
 
 <div id="badges" align="center">
