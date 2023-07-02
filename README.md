@@ -7,6 +7,8 @@
 |👨‍👩‍👧 Mother & Wife | 🎓 Game Design Student (March 2024)| 🎮 Video Game Enthusiast |
 |:---:|:---:|:---:|
 
+I am a professional Game Designer with a passion for creating immersive and captivating gaming experiences. With 2.5 years of academic experience, I have a proven track record of delivering innovative game concepts, designing compelling gameplay mechanics, and collaborating with cross-functional teams to successful project completion. Equipped with a deep understanding of player psychology and industry trends, I strive to push boundaries and deliver games that engage, entertain, and leave a lasting impact.
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kathleen-knapp-b96166126/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
