@@ -28,17 +28,6 @@
 
 <div align = "center">
 
-### 👩‍💻 About Me:
-👨‍👩‍👧 Mother & Wife
-
-🎓 Full Sail University Game Design Student - Graduating 2024
-
-🎮 Video Game Enthusiast
-
-🍿 Movie-Goer
-
-🪴 Plant Obsessed
-
 ### Skills:
 
 <img src= "https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
