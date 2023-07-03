@@ -40,6 +40,11 @@
 |[![](./Beta.webp)](https://youtu.be/X-aGR45x_7w)
 |:---:|
 |Environment Design Beta|
+
+### Level Design Prototyping
+|[![](./RotatePrototype.webp)](https://www.youtube.com/watch?v=JfCopGUUOKg)
+|:---:|
+|Prototype Mechanic|
  
 # Level Design Process
  
