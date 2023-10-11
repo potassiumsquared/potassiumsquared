@@ -7,7 +7,7 @@
 |👨‍👩‍👧 Mother & Wife | 🎓 Game Design Student | 🎮 Video Game Enthusiast |
 |:---:|:---:|:---:|
 
-|[![](./MyLogo.png =50x50)](https://kayleenburk.carbonmade.com)
+|[![](./MyLogo.png =200)](https://kayleenburk.carbonmade.com)
 |:---:|
 |Portfolio Website|
 
