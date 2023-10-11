@@ -31,26 +31,33 @@
 ## Game Design Samples:
 
 ### Prototype Mechanics
-|[![](./TileGame.webp)](https://youtu.be/ljpsaDAmavs?si=2MM3SkN_BIj4IQq9) | [![](./TilePrototype.webp)](https://youtu.be/oYKp6RNtynw?si=cBR2EU83IafWene1)|
-|:---:|:---:|
-|Tile Game|Tile Game Implementation|
+|[![](./TileGame.webp)](https://youtu.be/ljpsaDAmavs?si=2MM3SkN_BIj4IQq9) | [![](./TilePrototype.webp)](https://youtu.be/oYKp6RNtynw?si=cBR2EU83IafWene1) | [![](./LightsOutLogicGame.webp)](https://youtu.be/WmBLcvHgDxQ?si=dw3jFqMnaENMJ4gN)
+|:---:|:---:|:---:|
+|Tile Game|Tile Game Implementation|Lights Out Logic Game|
 
-### Alpha/Greyboxing Adventure Level
+|[![](./TopDownShooter.webp)](https://youtu.be/jKaDobI_qco?si=qwyjOrRA_UDBgdLU)
+|:---:|
+|Top Down Shooter|
+
+|[![](./AIPrototype.webp)](https://youtu.be/NsqgasrSQ9s?si=IXDKEI1zmHlMMPrG)
+|:---:|
+|AI Prototype|
+
+### Alpha/Greyboxing Level
 
 |[![](./First_Level.webp)](https://youtu.be/kv6mbalxinU) | [![](./Second_Level.webp)](https://youtu.be/038fdLuN7EI)|
 |:---:|:---:|
 |First Iteration|Second Iteration|
 
- ### Beta Adventure Level
+|[![](./RotatePrototype.webp)](https://youtu.be/d4GQv-Ub_oA) | [![](./ConveyorBelt.webp)](https://youtu.be/JmMs9r4eBZc?si=GNWz86eHrZWQeuf1)|
+|:---:|:---:|
+|Pipe Rotating Puzzle|Conveyor Belt System|
+
+ ### Beta Level
  
 |[![](./Beta.webp)](https://youtu.be/X-aGR45x_7w)
 |:---:|
 |Environment Design Beta|
-
-### Level Design Prototyping
-|[![](./RotatePrototype.webp)](https://youtu.be/d4GQv-Ub_oA)
-|:---:|
-|Prototype Mechanic|
  
 # Level Design Process
  
