@@ -8,9 +8,7 @@
 |:---:|:---:|:---:|
 
 ---
-
 ##[Portfolio Website][https://kayleenburk.carbonmade.com]
-
 ---
 
 <div id="badges" align="center">
