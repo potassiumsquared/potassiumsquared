@@ -29,6 +29,12 @@
 <div align = "center">
 
 ## Game Design Samples:
+
+### Prototype Mechanics
+|[![](./TileGame.webp)](https://youtu.be/ljpsaDAmavs?si=2MM3SkN_BIj4IQq9) | [![](./TilePrototype.webp)](https://youtu.be/oYKp6RNtynw?si=cBR2EU83IafWene1)|
+|:---:|:---:|
+|Tile Game|Tile Game Implementation|
+
 ### Alpha/Greyboxing Adventure Level
 
 |[![](./First_Level.webp)](https://youtu.be/kv6mbalxinU) | [![](./Second_Level.webp)](https://youtu.be/038fdLuN7EI)|
