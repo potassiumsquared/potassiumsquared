@@ -43,15 +43,15 @@
 |:---:|
 |AI Prototype|
 
+|[![](./RotatePrototype.webp)](https://youtu.be/d4GQv-Ub_oA) | [![](./ConveyorBelt.webp)](https://youtu.be/JmMs9r4eBZc?si=GNWz86eHrZWQeuf1)|
+|:---:|:---:|
+|Pipe Rotating Puzzle|Conveyor Belt System|
+
 ### Alpha/Greyboxing Level
 
 |[![](./First_Level.webp)](https://youtu.be/kv6mbalxinU) | [![](./Second_Level.webp)](https://youtu.be/038fdLuN7EI)|
 |:---:|:---:|
 |First Iteration|Second Iteration|
-
-|[![](./RotatePrototype.webp)](https://youtu.be/d4GQv-Ub_oA) | [![](./ConveyorBelt.webp)](https://youtu.be/JmMs9r4eBZc?si=GNWz86eHrZWQeuf1)|
-|:---:|:---:|
-|Pipe Rotating Puzzle|Conveyor Belt System|
 
  ### Beta Level
  
