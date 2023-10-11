@@ -7,9 +7,7 @@
 |👨‍👩‍👧 Mother & Wife | 🎓 Game Design Student | 🎮 Video Game Enthusiast |
 |:---:|:---:|:---:|
 
-|[![](./MyLogo.png)](https://kayleenburk.carbonmade.com)
-|:---:|
-|Portfolio Website|
+## [Portfolio Website](https://www.genome.gov/)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kathleen-knapp-b96166126/">
